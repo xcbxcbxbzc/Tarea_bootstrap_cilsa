@@ -1,0 +1,16 @@
+/* Dispositivos tablet */
+@media (max-width: 768px) {
+    form {
+        width: 100%;
+    }
+}
+
+/* Celulares */
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    button {
+        width: 100%;
+    }
+}
